@@ -57,5 +57,10 @@ A mobile retailer wanted to know which cities, brands, models and payment method
 | `README.md` | Documentation |
 
 ## 👤 Author
-**Chandan Sarma** | Data Analyst | Excel • SQL • Power BI
-[GitHub](https://github.com/Chandan5541)
+
+**Chandan Sarma**
+Data Analyst | Excel · SQL · Power BI
+
+- 🔗 GitHub: [Chandan5541](https://github.com/Chandan5541)
+- 📧 Email: chandansarma087@gmail.com
+- 💼 LinkedIn: [Chandan Sarma](https://www.linkedin.com/in/chandansarma-5a0a82266)
